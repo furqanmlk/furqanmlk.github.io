@@ -6,6 +6,7 @@
 <body>
 
 <h2>About Mattermost</h2>
+<img src="images/png-image-file.png" alt="Flowers in Chania" width="460" height="345">
 <p>Mattermost’s mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.
 
 Below is an overview of our products, features, security, integrations, licensing and subscriptions, authentication, and compliance support.
