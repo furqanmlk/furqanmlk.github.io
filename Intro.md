@@ -85,9 +85,9 @@ Mattermost is an open source platform for secure communication, collaboration, a
 <section>
   <nav>
     <ul>
-      <li><a href="#">Channel</a></li>
-      <li><a href="#">Playbooks</a></li>
-      <li><a href="#">Boards</a></li>
+      <li><a>Channel</a></li>
+      <li><a>Playbooks</a></li>
+      <li><a>Boards</a></li>
     </ul>
   </nav>
   
