@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-<title>Downloading Template... portfolio-2-column.zip</title>
+<title>Automation</title>
 </head>
 <body>
 
