@@ -1,7 +1,8 @@
 
 <html lang="en">
 <head>
-<title>Automation</title>
+<title>Downloading Template... portfolio-2-column.zip</title>
+</head>
 <body>
 
 <h2>About Mattermost</h2>
