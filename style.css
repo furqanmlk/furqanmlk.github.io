@@ -5,6 +5,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
+	background-color: #f3f3f3;
   }
   
   header {
@@ -31,6 +32,8 @@ body {
   
   section {
 	padding: 20px;
+	background-color: #fff;
+	margin-bottom: 20px;
   }
   
   footer {
@@ -53,5 +56,14 @@ body {
   
   .button:hover {
 	background-color: #23527c;
+  }
+  
+  /* Background */
+  body {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
   }
   
